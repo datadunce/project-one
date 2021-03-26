@@ -16,3 +16,4 @@ The data sets we plan to use include:
     - heat map of average household income
 
 Identify if there is a correlation between average household income and percentage of population who have received one dose of a COVID-19 vaccine
+
